@@ -1,5 +1,11 @@
 <h1>Hi, I'm Eddie, an aspiring <a href="www.linkedin.com/in/edmond-hanley">IT Professional</a>😄</h1>
 
+⚡ I'm excited to share my journey in the tech field. This repository showcases my current IT projects and experiments at home.
+
+🪴 As I learn and grow, I hope to contribute to the community and connect with fellow tech enthusiasts.
+
+✳️ Feel free to explore my projects and provide feedback!
+##
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
