@@ -1,4 +1,4 @@
-# Hi! I'm Eddie, an [aspiring IT Professional](www.linkedin.com/in/edmond-hanley)👨🏻‍💻​🖥️​🛜​🖨️​
+# Hi! I'm Eddie, an [aspiring IT Professional](www.linkedin.com/in/edmond-hanley)👨🏻‍💻​​🛜​🖨️
 
 ⚡ I'm excited to share my journey in the tech field. This repository showcases my current IT projects and experiments at home.
 
