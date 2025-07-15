@@ -5,14 +5,14 @@
 🪴 As I learn and grow, I hope to contribute to the community and connect with fellow tech enthusiasts.
 
 ✳️ Feel free to explore my projects and provide feedback!
-##
-<h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+## Information Technology Projects: 
+
+### osTicket (Help Desk Ticketing System)
   - [osTicket: Prerequisites and Installation](https://github.com/EddieJIV/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/EddieJIV/osTicket-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](link)
-- <b>Microsoft Azure</b>
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/EddieJIV/osTicket-Ticket-Lifecycle-Examples)
+### Microsoft Azure
   - [Configuring Active Directory within Azure VMs](link)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](link)
 
