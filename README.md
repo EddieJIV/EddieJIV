@@ -9,8 +9,8 @@
 ## Information Technology Projects: 
 
 ### Microsoft Azure & Active Directory
-  - [Preparing & Configuring Active Directory Infrastructure in Azure](link)
-  - [Configuring Active Directory within Azure](link)
+  - [Lab Architecture: Preparing Active Directory Infrastructure in Azure](link)
+  - [Deploying Active Directory](link)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](link)
 
 
