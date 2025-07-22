@@ -8,13 +8,17 @@
 
 ## Information Technology Projects: 
 
+### Microsoft Azure & Active Directory
+  - [Preparing & Configuring Active Directory Infrastructure in Azure](link)
+  - [Configuring Active Directory within Azure](link)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](link)
+
+
 ### osTicket (Help Desk Ticketing System)
   - [osTicket: Prerequisites and Installation](https://github.com/EddieJIV/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/EddieJIV/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/EddieJIV/osTicket-Ticket-Lifecycle-Examples)
-### Microsoft Azure & Active Directory
-  - [Configuring Active Directory within Azure VMs](link)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](link)
+
 
 <h2>🤳Connect with me:</h2>
 
