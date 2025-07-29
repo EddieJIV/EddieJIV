@@ -11,7 +11,7 @@
 ### Microsoft Azure & Active Directory
   - [Lab Architecture: Preparing Active Directory Infrastructure in Azure](https://github.com/EddieJIV/Lab-Architecture-Preparing-Active-Directory-Infrastructure-in-Azure/blob/main/README.md)
   - [Deploying & Configuring Active Directory](https://github.com/EddieJIV/Deploying-and-Configuring-Active-Directory)
-  - [Creating Users with Powershell](link)
+  - [Creating Users with Powershell](https://github.com/EddieJIV/Creating-Users-with-PowerShell)
   - [Group Policy & Managing Accounts](link)
   - [Practicing with DNS](link)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](link)
