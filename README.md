@@ -13,8 +13,8 @@
   - [Deploying & Configuring Active Directory](https://github.com/EddieJIV/Deploying-and-Configuring-Active-Directory)
   - [Creating Users with Powershell](https://github.com/EddieJIV/Creating-Users-with-PowerShell)
   - [Group Policy & Managing Accounts](link)
-  - [Practicing with DNS](link)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](link)
+  - [Practicing with DNS](link) - Coming Soon
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](link) - Coming Soon
 
 
 ### osTicket (Help Desk Ticketing System)
