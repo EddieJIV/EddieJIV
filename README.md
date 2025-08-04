@@ -12,7 +12,7 @@
   - [Lab Architecture: Preparing Active Directory Infrastructure in Azure](https://github.com/EddieJIV/Lab-Architecture-Preparing-Active-Directory-Infrastructure-in-Azure/blob/main/README.md)
   - [Deploying & Configuring Active Directory](https://github.com/EddieJIV/Deploying-and-Configuring-Active-Directory)
   - [Creating Users with Powershell](https://github.com/EddieJIV/Creating-Users-with-PowerShell)
-  - [Group Policy & Managing Accounts](link)
+  - [Group Policy & Managing Accounts](https://github.com/EddieJIV/Group-Policy-Managing-Accounts/blob/main/README.md)
   - [Practicing with DNS](link) - Coming Soon
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](link) - Coming Soon
 
